@@ -1,0 +1,29 @@
+{
+  "name": "@rapharacing/media-query",
+  "version": "0.0.1",
+  "description": "Media query helper for the Rapha Design System",
+  "author": "Rapha Racing",
+  "license": "MIT",
+  "main": "./dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rapharacing/media-query.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rapharacing/media-query/issues"
+  },
+  "keywords": [
+    "rapha",
+    "media",
+    "query"
+  ],
+  "homepage": "https://github.com/rapharacing/media-query#readme",
+  "dependencies": {
+    "@rapharacing/design-tokens": "^1.0.4",
+    "styled-components": "^4.2.0"
+  },
+  "publishConfig": {
+    "access": "public",
+    "@rapharacing:registry": "https://registry.npmjs.org"
+  }
+}
