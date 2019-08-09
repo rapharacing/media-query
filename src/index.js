@@ -1,6 +1,6 @@
-import { css } from 'styled-components'
+import { css } from 'styled-components';
 
-import * as tokens from '@bit/rapha.tokens.cjs'
+import * as tokens from "@rapharacing/design-tokens";
 
 /** @flow */
 
@@ -27,4 +27,4 @@ export default Object.keys(sizes).reduce((acc, label) => {
     `
 
     return acc
-}, {})
+}, {});
