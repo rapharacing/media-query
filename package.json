@@ -15,7 +15,8 @@
   "keywords": [
     "rapha",
     "media",
-    "query"
+    "query",
+    "styled-components"
   ],
   "homepage": "https://github.com/rapharacing/media-query#readme",
   "dependencies": {
