@@ -1,4 +1,4 @@
-# Rapha Meida Query
+# Rapha Media Query
 
 <h3 align="center">Beautiful media queries for styled-components</h3>
 
